@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Password Generator",
+    "version": "1.0",
+    "description": "Generate secure passwords with customizable options.",
+    "permissions": ["storage", "clipboardWrite"],
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": {
+        "16": "icon.webp",
+        "48": "icon.webp",
+        "128": "icon.webp"
+      }
+    }
+  }
+  
