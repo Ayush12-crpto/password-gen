@@ -12,10 +12,12 @@ body {
     width: 100%;
     margin: 10px 0;
     padding: 5px;
+    color:white;
   }
   
   button {
     margin: 5px 0;
     padding: 5px 10px;
+    color:green;
   }
   
